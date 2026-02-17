@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /* ============================================================
    style.css — The Gallery
    ============================================================
@@ -615,7 +615,7 @@ footer p {
   .lightbox-info .description { display: none; }
 
   footer { justify-content: center; text-align: center; }
-=======
+
 /* ============================================================
    style.css — The Gallery
    ============================================================
@@ -1232,5 +1232,5 @@ footer p {
   .lightbox-info .description { display: none; }
 
   footer { justify-content: center; text-align: center; }
->>>>>>> fd6a3106fd9f74fe113db8a02ea43aecbb25ef80
+}
 }
